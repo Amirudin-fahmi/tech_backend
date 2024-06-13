@@ -1,0 +1,5 @@
+HOST = "localhost"
+PORT = "3006"
+DATABASE = "notes_db"
+USER = "root"
+PASSWORD = ""
